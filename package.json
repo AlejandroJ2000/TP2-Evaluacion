@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/AlejandroJ2000/TP2-Evaluacion/issues"
   },
-  "homepage" : "",
+  "homepage" : "https://github.com/AlejandroJ2000/TP2-Evaluacion/edit/main/README.md",
   "dependencies": {
     "dotenv": "^16.5.0",
     "express": "^5.1.0"
